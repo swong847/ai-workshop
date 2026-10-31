@@ -46,18 +46,36 @@ Replace the words in the prompt below with the room's picks, then paste it. **Do
 Here is our product brief:
 
 Product name = assume one
-User = user
-Evidence = evidence
-Goal = goal
-Setting = setting
-Constraint = constraint
-One-line pitch: A tool that lets a [user] use [evidence] to [goal], [setting], with [constraint].
+User = [user]
+Evidence = [evidence]
+Goal = [goal]
+Setting = [setting]
+Constraint = [constraint]
 
-Before you build anything, act as a product reviewer. Ask us the five or six most
-important questions we need to answer (more only if really essential). Wait for our
-answers. When we have answered, do NOT build. Instead show us a short product plan in
-plain language: what you would build, the main decisions and your assumptions. Then
-wait for us to approve it.
+One-line pitch: A tool that lets a [user] use [evidence] to [goal], in [setting], with [constraint].
+
+Before building anything, act as a product discovery facilitator.
+
+Ask us the five or six most important questions needed to turn this idea into a simple working prototype.
+
+**For this workshop:**
+- Keep questions short, high-level and in plain English.
+- Focus on the user, the problem, how the product should work and what the first version must do.
+- Avoid technical implementation questions, architecture decisions or specialist domain knowledge.
+- Ask questions that a non-technical founder could reasonably answer.
+- If we don't know an answer, help us identify a sensible assumption to test later rather than getting stuck.
+
+Wait for our answers.
+
+Once we've answered, do NOT build anything.
+
+Instead, produce a short product plan in plain English covering:
+1. What the prototype will do.
+2. The main user journey.
+3. The key decisions and assumptions.
+4. What we're deliberately leaving out.
+
+Keep the plan concise and wait for our approval before proceeding.
 ```
 
 <details>
