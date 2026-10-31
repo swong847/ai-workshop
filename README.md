@@ -20,7 +20,7 @@ Build a rough prototype with AI, step by step. Copy each prompt with the **copy 
 We start with a deliberately poor prompt, to see what the AI decides for us.
 
 ```
-Build me a scientific web app for new firefighters.
+Build me a web app for new firefighters.
 ```
 
 **Look for:** what did it assume? What did it decide without asking? What's missing?
